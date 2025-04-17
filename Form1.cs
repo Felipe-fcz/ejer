@@ -16,5 +16,12 @@ namespace ejer
         {
             InitializeComponent();
         }
+
+        private void btnVerMensaje_Click(object sender, EventArgs e)
+        {
+            String mensaje = txtMensaje.Text;
+
+            MessageBox.Show("" + mensaje);
+        }
     }
 }

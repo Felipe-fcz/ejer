@@ -1,0 +1,10 @@
+C:\Users\Yohan Suaza\source\repos\ejer\ejer\obj\Debug\ejer.csproj.AssemblyReference.cache
+C:\Users\Yohan Suaza\source\repos\ejer\ejer\obj\Debug\ejer.Form1.resources
+C:\Users\Yohan Suaza\source\repos\ejer\ejer\obj\Debug\ejer.Properties.Resources.resources
+C:\Users\Yohan Suaza\source\repos\ejer\ejer\obj\Debug\ejer.csproj.GenerateResource.cache
+C:\Users\Yohan Suaza\source\repos\ejer\ejer\obj\Debug\ejer.csproj.CoreCompileInputs.cache
+C:\Users\Yohan Suaza\source\repos\ejer\ejer\bin\Debug\ejer.exe.config
+C:\Users\Yohan Suaza\source\repos\ejer\ejer\bin\Debug\ejer.exe
+C:\Users\Yohan Suaza\source\repos\ejer\ejer\bin\Debug\ejer.pdb
+C:\Users\Yohan Suaza\source\repos\ejer\ejer\obj\Debug\ejer.exe
+C:\Users\Yohan Suaza\source\repos\ejer\ejer\obj\Debug\ejer.pdb
