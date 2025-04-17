@@ -17,11 +17,16 @@ namespace ejer
             InitializeComponent();
         }
 
-        private void btnVerMensaje_Click(object sender, EventArgs e)
+        private void btnCalcular_Click(object sender, EventArgs e)
         {
-            String mensaje = txtMensaje.Text;
+            double nota1 = double.Parse(txtNota1.Text);
+            double nota2 = double.Parse(txtNota2.Text);
+            double nota3 = double.Parse(txtNota3.Text);
 
-            MessageBox.Show("" + mensaje);
+            double resultado = nota1 + nota2 + nota3;
+            double notaFinal = resultado / 3.0;
+
+            MessageBox.Show("La nota final del estudienate es: " + notaFinal);
         }
     }
 }
